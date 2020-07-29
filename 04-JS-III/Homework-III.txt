@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays
+----------------------
+
+Arrays: Significa Arreglos, sirven como contenedores de informacion, ahi podemos crear
+matrices compuestas de variables, que pueden ser, de tipo string, de numeros, de booleanos
+y podemos usarlas cuando lo necesitemos.
