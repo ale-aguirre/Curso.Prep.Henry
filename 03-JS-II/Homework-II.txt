@@ -1,0 +1,19 @@
+En un archivo de texto separado que debes crear,
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+cualquier agujero en tu comprensión.
+
+for
+&&, ||, !
+
+----------------------------
+
+For: es un bucle que sirve para hacer tareas repetidas definiendo una variable, sobre
+la que se va repetir, hasta que esa declaracion sea false. Esta se va a ir incrementando
+constantemente hasta darle un fin.
+
+&&: Significa "Y" o "AND" , sirve para evaluar expresiones y devolver TRUE si es verdadero.
+
+||: Significa "O" o "OR", sirve para saber si una de las experesiones es TRUE si es verdadero.
+
+!: Significa "NO" o "NOT", sirve para devolver el valor opuesto al que tiene predeterminado.
