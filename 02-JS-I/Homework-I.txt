@@ -1,0 +1,35 @@
+En un archivo de texto separado que debes crear,
+escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+---
+
+Variables: Una variable es una forma para guardar un valor para despues darle muchos usos.
+Para darle nombre a una variable se utiliza la palabra VAR seguida de un = que junto a eso 
+podes darle un nombre para despues utilizarla en otro momento.
+
+Strings: Strings es igual a un texto pero siempre se escribe con " " , todo lo que este
+en esas comillas se considera texto o String.
+
+Funciones: Las funciones las usamos cuando tenemos que calcular o utilizar 1 o mas variables
+, se les dice objetos invocables.
+
+Argumentos: Cuando ya tenemos la función , hay q darle argumentos o datos para que trabaje o
+piense y ver que tiene que hacer la computadora.
+
+Return: El return es el "resultado" o la respuesta que deseamos o necesitamos obtener de una
+funcion que hayamos declarado y argumentado.
+
+Declaracion if: Para verificar algo con el codigo que le adminisitramos necesitamos un flujo 
+de control y para eso utilizamos el if. If le podriamos decir que "en el caso de que" pase tal
+funcion me devuelva o retorne true o false.
+
+Valores Booleanos: es para declarar si algo es verdadero o falso, si o no, 0 o 1. solo hay 2
+respuestas. Los valores aceptados son True o False.
