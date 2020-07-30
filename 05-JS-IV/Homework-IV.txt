@@ -10,3 +10,14 @@ Bucle for…in
 Notación de puntos vs notación de corchetes
 
 -----------------------------
+
+Objetos: Los objetos son otro tipo de contenedores en la que podemos guardar mucha informacion.
+Se utiliza {} Para denotar un objeto.
+
+Propiedades: Las propiedades aparecen dentro del objeto, como por ejemplo, nombre, edad, sexo.
+
+Metodos: son las funciones guardadas dentro de un objeto, como .lenght .push 
+
+Notacion de puntos: Es cuando podemos acceder a una propiedad mediante un punto desde el objeto
+
+Notacion de corchetes: sirve para recorrer en algun objeto o en variables.
