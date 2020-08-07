@@ -27,8 +27,8 @@ piense y ver que tiene que hacer la computadora.
 Return: El return es el "resultado" o la respuesta que deseamos o necesitamos obtener de una
 funcion que hayamos declarado y argumentado.
 
-Declaracion if: Para verificar algo con el codigo que le adminisitramos necesitamos un flujo 
-de control y para eso utilizamos el if. If le podriamos decir que "en el caso de que" pase tal
+Declaracion if: Para verificar algo con el codigo que le adminisitramos necesitamos un control
+y para eso utilizamos el if. If le podriamos decir que "en el caso de que" pase tal
 funcion me devuelva o retorne true o false.
 
 Valores Booleanos: es para declarar si algo es verdadero o falso, si o no, 0 o 1. solo hay 2
